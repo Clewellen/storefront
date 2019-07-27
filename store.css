@@ -1,5 +1,5 @@
 body{
-    background: url(assets/stock_image___blue_space_nebula_by_paradisiacpicture_d7qem1k.jpg) no-repeat fixed; 
+    background: url(assets/stock_image___blue_space_nebula_by_paradisiacpicture_d7qem1k.jpg) repeat fixed; 
 
     color: white;
     flex-wrap: inherit;
